@@ -1,2 +1,2 @@
 # Adocao-de-pets
-Programa feito em Java que simula uma loja de adoção de animais
+Programa feito inteiramente em Java que simula uma de adoção de animais
